@@ -13,10 +13,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@langchain/community": "^0.3.35",
     "@langchain/core": "^0.3.42",
     "@langchain/openai": "^0.4.4",
     "dotenv": "^16.4.7",
-    "langchain": "^0.3.19"
+    "langchain": "^0.3.19",
+    "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
     "@types/node": "^22.13.10",
