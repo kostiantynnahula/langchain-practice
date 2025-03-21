@@ -6,7 +6,7 @@ const run = async () => {
 
   console.log('Run the Langchain project start...');
 
-  // Define the tools for the agent to use
+  /// Define the search schema
 
   console.log('Run the Langchain project end...');  
 };
