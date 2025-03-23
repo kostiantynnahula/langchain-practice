@@ -6,7 +6,7 @@ const run = async () => {
 
   console.log('Run the Langchain project start...');
 
-  /// Define the search schema
+  // code here
 
   console.log('Run the Langchain project end...');  
 };
