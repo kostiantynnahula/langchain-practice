@@ -6,7 +6,8 @@ const run = async () => {
 
   console.log('Run the Langchain project start...');
 
-  // code here
+ 
+  // Write your code here...
 
   console.log('Run the Langchain project end...');  
 };
